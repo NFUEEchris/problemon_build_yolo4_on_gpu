@@ -15,9 +15,9 @@ darknet網址:https://github.com/AlexeyAB/darknet
 
 git網址:https://git-scm.com/
 
-### **影片教學**
-* 不是我拍的
-https://www.youtube.com/watch?v=PVf16gIhnek&ab_channel=%E6%9F%AF%E6%9F%AF
+### **參考影片**
+
+https://www.youtube.com/watch?v=PVf16gIhnek&ab_channel=%E6%9F%AF%E6%9F%AF 
 
 ### **遇到問題**
 
