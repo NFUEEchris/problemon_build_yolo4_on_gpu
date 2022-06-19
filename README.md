@@ -1,4 +1,4 @@
-# solve problem yolov4+cmake+cuda v11.6(v11.7bug)+cudnn v11.x+opencv+darknet
+# solve problem on yolov4+cmake+cuda v11.6(v11.7bug)+cudnn v11.x+opencv+darknet
 
 # **環境建置**
  opencv download網址:https://opencv.org/releases/
